@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glomi
-- 👀 I’m interested in network and programmation.
-- 🌱 I’m currently learning computer science at EPITA
+- 👀 I’m interested in network and computer science.
+- 🌱 I’m currently a student at EPITA
 - 📫 How to reach me : Twitter
 
 <!---
